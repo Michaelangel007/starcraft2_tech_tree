@@ -1,0 +1,41 @@
+patch.sc2archive/mods/liberty.sc2mod/base.sc2data/GameData/Assets.txt
+From: http://www.stardepot.org/63/how-to-change-resource-icon
+
+Font: EuroTile
+42 pt - Strong Against:   Color: 01ff20
+        Weak Against:     Color: fe0002
+24 pt - Unit name
+
+Protoss - Blue
+Terran  - Green  00fd44
+Zerg    - Orange
+
+
+
+StarCraft II\Campaigns\Liberty.SC2Campaign
+    btn-building-terran-*.dds
+
+Icons Buildings
+  Assets/Textures/
+    btn-unit-protoss-*.dds
+
+Icons Units 
+  Assets/Textures/
+    btn-unit-protoss-*.dds
+    btn-unit-terran-*.dds
+    btn-unit-zer-*.dds
+
+Blue
+ui_ingame_help_glossary_protoss_normalandpressed
+ui_techtree_iconframe_protoss.dds
+ui_techtree_buildingname_protoss.dds
+ui_techtree_iconname_frame_protoss
+
+Green
+ui_ingame_help_glossary_terran_normalandpressd
+ui_techtree_iconframe_terran.dds
+
+Orange
+ui_ingame_help_glossary_zerg_normalandpressed.dds
+ui_ingame_help_glossary_normaloverandpressedover.dds
+ui_techgree_iconframe_zerg.dds
